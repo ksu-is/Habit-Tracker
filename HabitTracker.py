@@ -1,3 +1,13 @@
+class Habit:
+  def init(self, name, description, reminder_frequency):
+    self.name = name
+    self.description = description
+    reminder_frequency_map = {"daily": 1, "weekly": 7} 
+    try:
+      self.reminder_frequency = reminder_frequency_map[reminder_frequency.lower()]
+    except KeyError:
+      raise ValueError("Invalid reminder frequency. Please use 'daily' or 'weekly' for now.")  
+    self.completed_dates = set() 
 from datetime import date
 
 def main():
@@ -15,7 +25,7 @@ def main():
     if choice == '1':
       name = input("Enter habit name: ")
       description = input("Enter description (optional): ")
-      reminder_frequency = input("Enter reminder frequency (e.g., daily, weekly): ").lower()  # Convert to lowercase
+      reminder_frequency = input("Enter reminder frequency (e.g., daily, weekly): ").lower() 
       habits.append(Habit(name, description, reminder_frequency))
 
     elif choice == '2':
