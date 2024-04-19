@@ -6,8 +6,8 @@ Week One:
 - [x]  Clone reposiotry to Github team and add the features and installation steps to readme
       
 Week Two:
-- [ ] Filling in on updates for all pieces of code
-- [ ] Begin on creating the code
+- [x] Filling in on updates for all pieces of code
+- [x] Begin on creating the code
 - [ ] Creating the habit tracker questionaire
       
 Week Three:
