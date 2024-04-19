@@ -28,7 +28,7 @@ This app empowers you to build positive habits and achieve your personal goals. 
 ## Road map
 
 - You may view our roadmap if you'd like to see what we're currently working on.
-  
+- Roadmap is a basis of our schedule, we plan to remain on time with everything!
 ## Team Habits
 
 - Eduardo Silva
