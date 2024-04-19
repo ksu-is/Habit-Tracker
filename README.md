@@ -25,6 +25,9 @@ This app empowers you to build positive habits and achieve your personal goals. 
 - **Simple and Intuitive Interface:**
     - Enjoy a user-friendly and visually appealing interface.
     - Effortlessly track your habits and manage your goals.
+## Road map
+
+- You may view our roadmap if you'd like to see what we're currently working on.
   
 ## Team Habits
 
