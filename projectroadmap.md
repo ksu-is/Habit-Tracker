@@ -8,7 +8,7 @@ Week One:
 Week Two:
 - [x] Filling in on updates for all pieces of code
 - [x] Begin on creating the code
-- [ ] Creating the habit tracker questionaire
+- [x] Creating the habit tracker questionaire
       
 Week Three:
 - [ ] Creating the powerpoint and highlighting important infromation and uses
